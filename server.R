@@ -1,5 +1,4 @@
-# This is a simple app for exploring batting record of MLB from 1871 to 2014.
-library(Lahman)
+# This is a simple app for exploring batting record of MLB from 1871 to 2015.
 library(dplyr)
 library(rCharts)
 library(shiny)
